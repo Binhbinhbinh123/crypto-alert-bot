@@ -1,9 +1,7 @@
-python-telegram-bot==20.7
 requests
 pandas
-numpy
 matplotlib
 mplfinance
-ta
+numpy
 scipy
-flask
+python-telegram-bot==13.15
